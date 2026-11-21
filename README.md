@@ -1,7 +1,8 @@
 
+
 # CSE103 Lab — LAB 3: GitHub Collaboration & API Interaction
 
-![Last Commit](https://img.shields.io/github/last-commit/lavanyakh-1234/cse103-lab-LAB3)
+![Last Commit](https://img.shields.io/github/last-commit/lavanya-kh1234/cse103-lab-LAB3)
 
 ![Language](https://img.shields.io/badge/language-Python-blue)
 
@@ -35,7 +36,7 @@ cse103-lab-LAB3/
 ## How to Run
 
 ```bash
-git clone https://github.com/lavanyakh-1234/cse103-lab-LAB3.git
+git clone https://github.com/lavanya-kh1234/cse103-lab-LAB3.git
 cd cse103-lab-LAB3
 python3 main.py
 ```
